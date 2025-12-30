@@ -1,2 +1,1 @@
-# reply-fast
-Review Management Tool
+<a href="https://reply-fast.com">Review Management Tool</a>
